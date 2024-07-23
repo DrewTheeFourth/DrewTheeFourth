@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Drew, @DrewTheeFourth, a Cloud Engineer.
+- 👀 I’m interested in Cloud DevOps, deployments of web applications, local applications and everything in between!
+- 🌱 I’m currently learning AWS Cloud Engineering with @Azubi_Africa. They are the greatest team in the world in my own opinion.
+- 💞️ I’m looking to collaborate on any cloud computing project.
+- 📫 How to reach me you ask? My Instagram and Twitter (X) are @DrewTheFourth and @DrewTheeFourth respectively.
+- 😄 Pronouns: he/him/thee guy.
+- ⚡ Fun fact: I'm a raging gamer, tennis player and an avid reader, I have a buzzing lifestyle!
